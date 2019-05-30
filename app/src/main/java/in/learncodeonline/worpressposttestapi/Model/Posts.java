@@ -1,4 +1,4 @@
-package in.learncodeonline.worpressposttestapi;
+package in.learncodeonline.worpressposttestapi.Model;
 
 
 import com.google.gson.annotations.SerializedName;

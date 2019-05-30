@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
     <TextView
-        android:text="cdc"
+        android:text="Title"
         android:id="@+id/title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -23,7 +23,7 @@
         android:textSize="20sp"
         android:visibility="visible" />
     <TextView
-        android:text="cdc"
+        android:text="Desc"
         android:id="@+id/excerpt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
